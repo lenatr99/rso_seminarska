@@ -1,0 +1,115 @@
+3 EPOCHS
+Water regulation is critical to survival of soil amoebae, and D. discoideum has a rich system of contractile vacuoles which it uses to control its osmotic status. Heuser et al. reported the presence of carbonic anhydrase in cytoplasmic extracts, and they suggested a mechanism in which HCO; is the counter-ion during the acidification of the vacuoles, generating osmotically active carbonic acid and its dissociation products, which could draw water into the vacuoles. This hypothesis is supported by the discovery of a bicarbonate transporter. Steck et al. demonstrated that certain amino acids are excreted by the cells in response to hypotonicity. The vacuole system also stains with antibodies to calmodulin and has a P-type-Cat*-ATPase in contractile vacuoles, indicating that it may function in calcium homeostasis as well as water homeostasis. Recent developments in this field include:
+
+The detection of a protein that is a protein of the amoebae (Hepatoda melanogaster) and a protein of the amoebae (Hepatoda melanogaster) in the vacuoles of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells of the cells
+(base) lenatrnovec@Lenas-MacBook-Pro rso_seminarska % python model.py        
+{'loss': 2.3756, 'learning_rate': 3.3333333333333335e-05, 'epoch': 10.0}                                                                                              
+{'loss': 1.2788, 'learning_rate': 1.6666666666666667e-05, 'epoch': 20.0}                                                                                              
+{'loss': 0.8402, 'learning_rate': 0.0, 'epoch': 30.0}                                                                                                                 
+{'train_runtime': 10.0022, 'train_samples_per_second': 2.999, 'train_steps_per_second': 2.999, 'train_loss': 1.4981884638468423, 'epoch': 30.0}                       
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 30/30 [00:09<00:00,  3.01it/s]
+Model saved to ./2_trained_gpt2_model
+Tokenizer saved to ./2_trained_gpt2_tokenizer
+The attention mask and the pad token id were not set. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+Your input text here is a list of the most common types of errors that you'll encounter. The list is not exhaustive. The errors that you'll encounter are the most common.
+
+The following errors are common to all of the types of errors that you'll encounter
+(base) lenatrnovec@Lenas-MacBook-Pro rso_seminarska % python trained_model.py
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+
+
+30 EPOCHS 
+
+
+Water regulation is critical to survival of soil amoebae, and D. discoideum has a rich system of contractile vacuoles which it uses to control its osmotic status. Heuser et al. reported the presence of carbonic anhydrase in cytoplasmic extracts, and they suggested a mechanism in which HCO; is the counter-ion during the acidification of the vacuoles, generating osmotically active carbonic acid and its dissociation products, which could draw water into the vacuoles. This hypothesis is supported by the discovery of a bicarbonate transporter. Steck et al. demonstrated that certain amino acids are excreted by the cells in response to hypotonicity. The vacuole system also stains with antibodies to calmodulin and has a P-type-Cat*-ATPase in contractile vacuoles, indicating that it may function in calcium homeostasis as well as water homeostasis. Recent developments in this field include:
+
+A novel, rapid, and reversible calmodulin-dependent calmodulin dependent protein kinase I (KITI) protein kinase I was identified as a primary target of this study. This protein kinase I was first identified in the early 1990s as a target of the calmodulin dependent calmodulin dependent cyclic AMP protein kinase I (KITI) protein kinase I (KITI II) model. This model model model functions as a calmodulin dependent protein kinase I dependent calmodulin dependent cyclic AMP protein kinase I dependent calmodulin dependent cyclic AMP protein kinase I dependent cell cycle transition. This model model model functions as a calmodulin dependent calmodulin dependent calmodulin dependent cyclic AMP protein kinase I dependent calmodulin dependent cell cycle transition. This model model model functions as a calmodulin dependent calmodulin dependent calmodulin dependent calmodulin dependent cell cycle transition. This model model model functions as a calmodulin dependent calmodulin dependent calmodulin dependent calmodulin dependent cell cycle transition. This model model model functions as a calmodulin dependent calmodulin dependent calmodulin dependent cell cycle transition. This model model model functions as a calmodulin dependent calmodulin dependent calmodulin dependent cell cycle transition. This model model model functions as a calmodulin dependent calmodulin dependent calmodulin dependent cell cycle transition. This model model model
+(base) lenatrnovec@Lenas-MacBook-Pro rso_seminarska % 
+
+
+100 EPOCHS
+
+Water regulation is critical to survival of soil amoebae, and D. discoideum has a rich system of contractile vacuoles which it uses to control its osmotic status. Heuser et al. reported the presence of carbonic anhydrase in cytoplasmic extracts, and they suggested a mechanism in which HCO; is the counter-ion during the acidification of the vacuoles, generating osmotically active carbonic acid and its dissociation products, which could draw water into the vacuoles. This hypothesis is supported by the discovery of a bicarbonate transporter. Steck et al. demonstrated that certain amino acids are excreted by the cells in response to hypotonicity. The vacuole system also stains with antibodies to calmodulin and has a P-type-Cat*-ATPase in contractile vacuoles, indicating that it may function in calcium homeostasis as well as water homeostasis. Recent developments in this field include:
+
+• The detection of a specific binding protein, TrkB, that mediates calcium signal transduction and other functions.
+
+• The binding of intracellular and extracellular calmodulin to a specific binding protein, TrkB, that mediates calcium signal transduction and other functions.
+
+• The binding of extracellular calmodulin to a specific binding protein, TrkB, that mediates calcium signal transduction and other functions. • The binding of extracellular calmodulin to a specific binding protein, TrkB, that mediates calcium signal transduction and other functions. • The binding of extracellular calmodulin to a specific binding protein, TrkB, that mediates calcium signal transduction and other functions. • The binding of extracellular calmodulin to a specific binding protein, TrkB, that mediates calcium signal transduction and other functions. • The binding of extracellular calmodulin to a specific binding protein, TrkB, that mediates calcium signal transduction and other functions. • The binding of extracellular calmodulin to a specific binding protein, TrkB, that mediates calcium signal transduction and other functions. • The binding of extracellular calmodulin to a specific binding protein, TrkB, that mediates calcium signal transduction and other functions. • The binding of extracellular calmodulin to a specific binding protein, TrkB, that mediates calcium signal transduction and other
+
+
+
+
+vsi članki (cca 15 min)
+
+
+# Define training arguments
+training_args = TrainingArguments(
+    output_dir='./results',        
+    num_train_epochs=10,              
+    per_device_train_batch_size=3,  
+    logging_dir='./logs',            
+    logging_steps=10,
+)
+
+# Initialize Trainer
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    train_dataset=dataset,
+)
+(base) lenatrnovec@Lenas-MacBook-Pro rso_seminarska % python trained_model.py
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+
+Water regulation is critical to survival of soil amoebae, and D. discoideum has a rich system of contractile vacuoles which it uses to control its osmotic status. Heuser et al. reported the presence of carbonic anhydrase in cytoplasmic extracts, and they suggested a mechanism in which HCO; is the counter-ion during the acidification of the vacuoles, generating osmotically active carbonic acid and its dissociation products, which could draw water into the vacuoles. This hypothesis is supported by the discovery of a bicarbonate transporter. Steck et al. demonstrated that certain amino acids are excreted by the cells in response to hypotonicity. The vacuole system also stains with antibodies to calmodulin and has a P-type-Cat*-ATPase in contractile vacuoles, indicating that it may function in calcium homeostasis as well as water homeostasis. Recent developments in this field include:
+
+A novel membrane protein, the Dictyostelium discoideum membrane protein, is a novel membrane protein that is secreted by D. discoideum cells. This protein is secreted by the cells in response to pH changes, and it is expressed in the vacuole. The membrane protein is secreted by the cells in response to the presence of a pH gradient, and it is expressed in the vacuole. The membrane protein is secreted by the cells in response
+
+
+
+
+# Define training arguments
+training_args = TrainingArguments(
+    output_dir='./results',        
+    num_train_epochs=100,              
+    per_device_train_batch_size=5,  
+    logging_dir='./logs',            
+    logging_steps=10,
+)
+
+Water regulation is critical to survival of soil amoebae, and D. discoideum has a rich system of contractile vacuoles which it uses to control its osmotic status. Heuser et al. reported the presence of carbonic anhydrase in cytoplasmic extracts, and they suggested a mechanism in which HCO; is the counter-ion during the acidification of the vacuoles, generating osmotically active carbonic acid and its dissociation products, which could draw water into the vacuoles. This hypothesis is supported by the discovery of a bicarbonate transporter. Steck et al. demonstrated that certain amino acids are excreted by the cells in response to hypotonicity. The vacuole system also stains with antibodies to calmodulin and has a P-type-Cat*-ATPase in contractile vacuoles, indicating that it may function in calcium homeostasis as well as water homeostasis. Recent developments in this field include:
+A high affinity, high mobility, high mobility Osmotic permeability barrier Based on relaxation buffer and probe driven centrifugation, this technology was prototyped in the 80s and 90s and was initially used to probe the permeability of membranes and proteins. It has since proven its resilience against acidic conditions, particularly in acidic environments. The strong effect of its permeability barrier on cell motility and cell adhesion has been extensively investigated in this amoeba. Based on the findings in this
+
+
+
+with gpt-large (10 epochs)
+
+left padding: base
+ lenatrnovec@Lenas-MacBook-Pro rso_seminarska % python trained_model.py
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+A decoder-only architecture is being used, but right-padding was detected! For correct generation results, please set `padding_side='left'` when initializing the tokenizer.
+
+Add some recent developments to this paragraph: Water regulation is critical to survival of soil amoebae, and D. discoideum has a rich system of contractile vacuoles which it uses to control its osmotic status. Heuser et al. reported the presence of carbonic anhydrase in cytoplasmic extracts, and they suggested a mechanism in which HCO; is the counter-ion during the acidification of the vacuoles, generating osmotically active carbonic acid and its dissociation products, which could draw water into the vacuoles. This hypothesis is supported by the discovery of a bicarbonate transporter. Steck et al. demonstrated that certain amino acids are excreted by the cells in response to hypotonicity. The vacuole system also stains with antibodies to calmodulin and has a P-type-Cat*-ATPase in contractile vacuoles, indicating that it may function in calcium homeostasis as well as water homeostasis. 
+Asc-GMP-mediated water binding is critical for amoeboid cell motility, and the protein kinase B domain is required for its activity. In D. discoideum, the enzyme that catalyzes the formation of the second messengers SCAR/WAVE and the second messengers PIP3 and PIP2 is present in the cytoplasm and acts as a chemorepellent. The second messengers PIP3 and PIP2 are also required for the cell-cell adhesion and chemotaxis of amoebae. The chemotactic responses of D. discoideum cells to the chemoattractant cAMP are highly conserved in mammalian cells, and the mechanisms of chemotaxis are evolutionarily conserved in all organisms. In D. discoideum, the SCAR/WAVE and PIP3/PIP2 complex is activated by the presence of water and the enzyme that catalyzes the formation of the second messengers PIP3 and PIP2. The activated form of SCAR/WAVE is more active in acidic conditions and the activated form of PIP3 is more active in acidic conditions. The activated form of PIP3 is more active in acidic conditions and the activated form of PIP3 is more active in acidic conditions. The activated form of SCAR/WAVE is more active in acidic conditions and the activated form of PIP3 is more active in acidic conditions.
+
+
+
+
+
+1000 articles
+
+
+Add some recent developments to this paragraph: The developmental cycle begins when the amoebae consume all of their prey. If they do nothing to protect themselves, they will die from starvation. In response to this pressure, three distinct responses can occur - the amoebae can form microcysts, macrocysts, or fruiting bodies. The last is by far the most studied because it exhibits the fundamentals of all developing organisms. The cells signal each other to insure their correct proportion and pattern and they regulate - creating two full organisms from the two halves of a severed one. Development in D. discoideum, and numerous organisms like it, is composed of two phases: an aggregative period during which cells assemble in response to a chemotactic signal, and a complex fruiting body stage in which cells differentiate and rearrange themselves to form a mass of spores supported by a stalk. The Dictyostelia have strictly separated growth and developmental stages. A cell either consumes bacteria or other nutrients and divides mitotically, or it develops in response to starvation. One of the useful consequences of this separation is that genes that are induced during development are usually not needed for mitotic growth and so they can be mutated without affecting the viability of the growing organism. Starvation induces a variety of new genes whose products are necessary for chemotaxis toward cAMP (or other chemoattractants). These will be presented in detail in future chapters, but for the moment it is sufficient to realize that cAMP is the molecule that the amoebae recognize during chemotaxis. Their ability to synthesize, release, detect, and degrade cAMP is critical for aggregation and none of these capacities exists in the growing amoebae - all are induced as the cells starve.
+Amorphous cytoskeletal proteins are central to many processes and are often the key proteins that regulate them. They are not present in all cells but are abundant in cells that have the ability, for example, to sense and respond to chemical gradients. Drosophila melanogaster, the model organism for Dission, has a morphogenetic cell cycle that includes both single-cell and multicellular stages and these stages are separated by an aggregation stage. During aggregation, cells sense the chemosensing chemical gradient and aggregate into a multinucleate mass. This is a simple and elegant model system that has been used to study many important biological processes. However, Docking complex, a gene-expression network that controls the expression of many Dicer proteins, was not in existence when DokA was first described. It was only when MgcA, an ortholog of Dicing complex that was previously described as a protein-coupled receptor for cAR 1,
+
+
+(base) lenatrnovec@Lenas-MacBook-Pro rso_seminarska % python trained_model.py
+Setting `pad_token_id` to `eos_token_id`:50256 for open-end generation.
+A decoder-only architecture is being used, but right-padding was detected! For correct generation results, please set `padding_side='left'` when initializing the tokenizer.
+
+
+On model that is not fine tuned:
+
+Add some recent developments to this paragraph: The developmental cycle begins when the amoebae consume all of their prey. If they do nothing to protect themselves, they will die from starvation. In response to this pressure, three distinct responses can occur - the amoebae can form microcysts, macrocysts, or fruiting bodies. The last is by far the most studied because it exhibits the fundamentals of all developing organisms. The cells signal each other to insure their correct proportion and pattern and they regulate - creating two full organisms from the two halves of a severed one. Development in D. discoideum, and numerous organisms like it, is composed of two phases: an aggregative period during which cells assemble in response to a chemotactic signal, and a complex fruiting body stage in which cells differentiate and rearrange themselves to form a mass of spores supported by a stalk. The Dictyostelia have strictly separated growth and developmental stages. A cell either consumes bacteria or other nutrients and divides mitotically, or it develops in response to starvation. One of the useful consequences of this separation is that genes that are induced during development are usually not needed for mitotic growth and so they can be mutated without affecting the viability of the growing organism. Starvation induces a variety of new genes whose products are necessary for chemotaxis toward cAMP (or other chemoattractants). These will be presented in detail in future chapters, but for the moment it is sufficient to realize that cAMP is the molecule that the amoebae recognize during chemotaxis. Their ability to synthesize, release, detect, and degrade cAMP is critical for aggregation and none of these capacities exists in the growing amoebae - all are induced as the cells starve.
+The ameobas are not the only organisms that have evolved a specialized response. Many other organisms have also evolved mechanisms to regulate their growth. For example, the yeast Saccharomyces cerevisiae has a unique mechanism for regulating growth that is not found in any other organism, including humans. This mechanism is called the "S-phase" and it involves the formation of an enzyme called "solute carrier" (SC) that transports cGMP (a cationic molecule) into the cell. SC is a very specific molecule and is only found within the SC-containing cell and not in other cells. It is also important to note that SC does not exist in all cells, only in those that contain SC. Thus, SC can only be produced in a specific cell type. When the organism is starved, it will produce SC in its SC containing cells and then the other cell types will not be able to produce it. As a result, growth will slow down and the organisms
