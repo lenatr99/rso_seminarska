@@ -32,7 +32,6 @@ def generate_text(input_text, model, tokenizer, max_new_tokens=200):
         input_ids,
         attention_mask=attention_mask,
         max_length=512 + max_new_tokens,
-        top_k=50,
         repetition_penalty=1.1,
         num_beams=5,
         early_stopping=True,
