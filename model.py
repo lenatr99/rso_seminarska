@@ -65,11 +65,11 @@ trainer = Trainer(
 trainer.train()
 
 # Save the model
-model_save_path = "./5_trained_gpt2_model"
+model_save_path = "./models/3_trained_gpt2_model"
 model.save_pretrained(model_save_path)
 
 # Save the tokenizer
-tokenizer_save_path = "./5_trained_gpt2_tokenizer"
+tokenizer_save_path = "./models/3_trained_gpt2_tokenizer"
 tokenizer.save_pretrained(tokenizer_save_path)
 
 print(f"Model saved to {model_save_path}")

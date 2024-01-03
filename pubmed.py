@@ -5,7 +5,7 @@ import datetime
 import re
 import json
 
-def save_data(papers, filename='papers_data.json'):
+def save_data(papers, filename='data/papers_data.json'):
     formatted_papers = []
     for paper in papers:
         article = paper['MedlineCitation']['Article']

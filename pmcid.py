@@ -68,7 +68,7 @@ def download_articles(pmcid_list, folder_path="data/"):
         download_pubreader_text(pmcid)
 
 # Load PMCIDs from JSON file
-with open('papers_data.json', 'r') as f:
+with open('data/papers_data.json', 'r') as f:
     papers_data = json.load(f)
 
 def download_articles_from_json(json_file, folder_path="data/"):
@@ -84,4 +84,4 @@ def download_articles_from_json(json_file, folder_path="data/"):
         download_pubreader_text(pmcid)
 
 # Example usage
-download_articles_from_json('papers_data.json')
+download_articles_from_json('data/papers_data.json')
